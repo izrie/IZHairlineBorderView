@@ -9,7 +9,7 @@ s.author       = { "Hansaem Kim" => "bloodthirstier@gmail.com" }
 
 s.source       = { :git => "https://github.com/izrie/IZHairlineBorderView.git" }
 
-s.ios.deployment_target = '7.0'
+s.ios.deployment_target = '6.0'
 
 s.source_files = 'Classes/*.{m,h}'
 s.public_header_files = 'Classes/*.h'
